@@ -1,0 +1,1 @@
+공부하면서 컴파일한 코드블럭을 담은 프로젝트입니다. 현재는 'Functional Programming in JS'와 'You don't know JS' 에 대한 코드블록을 담고 있습니다.
